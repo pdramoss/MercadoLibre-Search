@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SearchItems
+
+  Created by Pedro Ramos on 20/11/21.
+  
+*/
+
+"HomeScreenTitle" = "Bienvenido a Mercado Libre";
+"SearchBarText" = "Buscar en Mercado Libre";
+"Error" = "Se presento un error";
+"Cancel" = "Cancelar";
+"acceptsMercadopago" = "Se acepta Mercado Pago";
+"notAcceptsMercadopago" = "No se acepta Mercado Pago";
+"availableQuantity" = "Cantidad disponible: ";
+"soldQuantity" = "Cantidad vendidad: ";
+"stateAddressDetail" = "Estado: ";
+"cityAddressDetail" = "Ciudad: ";
